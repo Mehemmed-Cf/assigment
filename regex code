@@ -1,0 +1,4 @@
+https://regex101.com/r/Ln0blJ/1
+
+
+^[a-zA-Z]+[\d]+[\W]+.{8,}$
